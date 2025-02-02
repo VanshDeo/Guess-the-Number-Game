@@ -42,11 +42,6 @@ h1{
     margin-bottom: 10px;
     font-size: 1.1em;
 }
-.play_again{
-    height: 30px;
-    width: 100px;
-    font-size: 1.1em;
-}
 .hidden{
     display: none;
 }
